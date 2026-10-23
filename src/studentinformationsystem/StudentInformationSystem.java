@@ -14,7 +14,7 @@ public class StudentInformationSystem {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Name: Zarith Syakirin bin Zaini");
+        System.out.println("Name: Zarith Syakirini");
         System.out.println("Student ID: S85090");
         
                 int Programming = 80;
